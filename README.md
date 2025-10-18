@@ -1,7 +1,5 @@
 # 💰 Simple Python Tip Calculator
 
-![GitHub language count](https://img.shields.io/github/languages/count/google/python-tip-calculator?style=for-the-badge&color=blue)
-![GitHub top language](https://img.shields.io/github/languages/top/google/python-tip-calculator?style=for-the-badge&color=green)
 
 A straightforward command-line application written in **Python** that quickly calculates how much each person needs to pay when splitting a bill, including a specified tip percentage. Perfect for those moments when the check arrives!
 
